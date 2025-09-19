@@ -42,7 +42,7 @@ JavaScript (ES6) – Interactivity & form validation
 Netlify – Hosting & deployment
 
 ## 🌐 Live Demo
-🔗 Live Site: 
+🔗 Live Site: https://dentechnologies.netlify.app/
 
 ## 📌 How to Run Locally
 Clone this repository:
