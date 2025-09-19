@@ -46,8 +46,7 @@ Netlify – Hosting & deployment
 
 ## 📌 How to Run Locally
 Clone this repository:
-git clone [https://github.com/your-username/tech-blog.git](https://github.com/Dennis-Munene/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git)
-
+git clone https://github.com/Dennis-Munene/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git
 
 ## Open the project folder:
 cd tech-blog
